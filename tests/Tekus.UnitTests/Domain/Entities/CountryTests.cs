@@ -2,6 +2,7 @@
 using System.Diagnostics.Metrics;
 using Tekus.Core.Domain.Entities;
 using Tekus.Core.Domain.Exceptions;
+using Xunit;
 
 namespace Tekus.UnitTests.Domain.Entities;
 

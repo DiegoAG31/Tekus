@@ -1,5 +1,6 @@
 ﻿using FluentAssertions;
 using Tekus.Core.Domain.Common;
+using Xunit;
 
 namespace Tekus.UnitTests.Domain.Common;
 

@@ -20,7 +20,8 @@ public class ProviderDto
 /// </summary>
 public class CustomFieldDto
 {
-    public string Key { get; set; }
-    public string Value { get; set; }
-    public string Type { get; set; }
+    // ✅ Agregar 'required' o '= string.Empty'
+    public string Key { get; set; } = string.Empty;
+    public string Value { get; set; } = string.Empty;
+    public string Type { get; set; } = string.Empty;
 }

@@ -2,6 +2,7 @@
 using Tekus.Core.Domain.Aggregates.ProviderAggregate;
 using Tekus.Core.Domain.Specifications;
 using Tekus.Core.Domain.ValueObjects;
+using Xunit;
 
 namespace Tekus.UnitTests.Domain.Specifications;
 

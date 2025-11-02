@@ -216,9 +216,11 @@ public class CreateProviderCommandTests
             .ReturnsAsync(false);
 
         Provider? capturedProvider = null;
-        mockProviderRepo.Setup(x => x.AddAsync(It.IsAny<Provider>(), default))
-            .Callback<Provider, System.Threading.CancellationToken>((p, ct) => capturedProvider = p)
-            .ReturnsAsync((Provider?)null);
+#pragma warning disable CS8620 // El argumento no se puede usar para el parámetro debido a las diferencias en la nulabilidad de los tipos de referencia.
+        _ = mockProviderRepo.Setup(x => x.AddAsync(It.IsAny<Provider>(), default))
+                            .Callback<Provider, CancellationToken>((p, ct) => capturedProvider = p)
+                            .ReturnsAsync((Provider?)null);
+#pragma warning restore CS8620 // El argumento no se puede usar para el parámetro debido a las diferencias en la nulabilidad de los tipos de referencia.
 
         mockUnitOfWork.Setup(x => x.SaveChangesAsync(default))
             .ReturnsAsync(1);

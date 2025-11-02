@@ -2,6 +2,7 @@
 using Tekus.Core.Domain.Aggregates.ServiceAggregate;
 using Tekus.Core.Domain.Exceptions;
 using Tekus.Core.Domain.ValueObjects;
+using Xunit;
 
 namespace Tekus.UnitTests.Domain.Aggregates;
 
