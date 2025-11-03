@@ -27,7 +27,7 @@ public class CountryConfiguration : IEntityTypeConfiguration<Country>
             .HasMaxLength(100);
 
         builder.Property(c => c.LastSync)
-            .IsRequired(false);
+            .HasDefaultValueSql("GETUTCDATE()");
 
         // Indexes
         builder.HasIndex(c => c.Name)

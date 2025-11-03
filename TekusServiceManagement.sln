@@ -27,6 +27,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0AB3BF05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tekus.UnitTests", "tests\Tekus.UnitTests\Tekus.UnitTests.csproj", "{680D97FF-C08B-4449-9577-A51409AF7E1A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}"
+	ProjectSection(SolutionItems) = preProject
+		docs\01-CreateDatabase.sql = docs\01-CreateDatabase.sql
+		docs\02-SeedData.sql = docs\02-SeedData.sql
+		docs\03-ExampleQueries.sql = docs\03-ExampleQueries.sql
+		docs\04-Cleanup.sql = docs\04-Cleanup.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

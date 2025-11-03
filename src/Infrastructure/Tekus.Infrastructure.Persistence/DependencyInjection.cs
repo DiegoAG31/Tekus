@@ -25,18 +25,4 @@ public static class DependencyInjection
 
         return services;
     }
-
-    public static IServiceCollection AddInfrastructureServicesInMemory(
-        this IServiceCollection services)
-    {
-        services.AddDbContext<ApplicationDbContext>(options =>
-            options.UseInMemoryDatabase("TekusTestDb"));
-
-        services.AddScoped<IProviderRepository, ProviderRepository>();
-        services.AddScoped<IServiceRepository, ServiceRepository>();
-        services.AddScoped<ICountryRepository, CountryRepository>();
-        services.AddScoped<IUnitOfWork, UnitOfWork>();
-
-        return services;
-    }
 }

@@ -5,6 +5,6 @@
 /// </summary>
 public interface ITokenService
 {
-    string GenerateToken(string userId, string email, IEnumerable<string> roles);
+    string GenerateToken(string userId, string email);
     bool ValidateToken(string token);
 }
