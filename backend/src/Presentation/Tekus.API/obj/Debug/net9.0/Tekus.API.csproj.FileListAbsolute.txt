@@ -1,0 +1,8 @@
+C:\Users\diego\Source\Repos\TekusServiceManagement\src\Presentation\Tekus.API\obj\Debug\net9.0\Tekus.API.csproj.AssemblyReference.cache
+C:\Users\diego\Source\Repos\TekusServiceManagement\src\Presentation\Tekus.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\diego\Source\Repos\TekusServiceManagement\src\Presentation\Tekus.API\obj\Debug\net9.0\Tekus.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Source\Repos\TekusServiceManagement\src\Presentation\Tekus.API\obj\Debug\net9.0\Tekus.API.AssemblyInfoInputs.cache
+C:\Users\diego\Source\Repos\TekusServiceManagement\src\Presentation\Tekus.API\obj\Debug\net9.0\Tekus.API.AssemblyInfo.cs
+C:\Users\diego\Source\Repos\TekusServiceManagement\src\Presentation\Tekus.API\obj\Debug\net9.0\Tekus.API.csproj.CoreCompileInputs.cache
+C:\Users\diego\Source\Repos\TekusServiceManagement\src\Presentation\Tekus.API\obj\Debug\net9.0\Tekus.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\Source\Repos\TekusServiceManagement\src\Presentation\Tekus.API\obj\Debug\net9.0\Tekus.API.sourcelink.json

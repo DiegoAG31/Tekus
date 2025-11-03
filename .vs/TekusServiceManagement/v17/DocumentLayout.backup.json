@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\TekusServiceManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E578C187-BD08-405D-BD59-AD28374FA770}|src\\Presentation\\Tekus.API\\Tekus.API.csproj|c:\\users\\diego\\source\\repos\\tekusservicemanagement\\src\\presentation\\tekus.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E578C187-BD08-405D-BD59-AD28374FA770}|src\\Presentation\\Tekus.API\\Tekus.API.csproj|solutionrelative:src\\presentation\\tekus.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\diego\\Source\\Repos\\TekusServiceManagement\\docs\\01-CreateDatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:docs\\01-CreateDatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E578C187-BD08-405D-BD59-AD28374FA770}|src\\Presentation\\Tekus.API\\Tekus.API.csproj|c:\\users\\diego\\source\\repos\\tekusservicemanagement\\src\\presentation\\tekus.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E578C187-BD08-405D-BD59-AD28374FA770}|src\\Presentation\\Tekus.API\\Tekus.API.csproj|solutionrelative:src\\presentation\\tekus.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E578C187-BD08-405D-BD59-AD28374FA770}|src\\Presentation\\Tekus.API\\Tekus.API.csproj|c:\\users\\diego\\source\\repos\\tekusservicemanagement\\src\\presentation\\tekus.api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E578C187-BD08-405D-BD59-AD28374FA770}|src\\Presentation\\Tekus.API\\Tekus.API.csproj|solutionrelative:src\\presentation\\tekus.api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\diego\\Source\\Repos\\TekusServiceManagement\\docs\\01-CreateDatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:docs\\01-CreateDatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01-CreateDatabase.sql ",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\TekusServiceManagement\\docs\\01-CreateDatabase.sql",
+              "RelativeDocumentMoniker": "docs\\01-CreateDatabase.sql",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\TekusServiceManagement\\docs\\01-CreateDatabase.sql",
+              "RelativeToolTip": "docs\\01-CreateDatabase.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-03T03:06:09.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\TekusServiceManagement\\src\\Presentation\\Tekus.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\Tekus.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\TekusServiceManagement\\src\\Presentation\\Tekus.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "src\\Presentation\\Tekus.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:57:14.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\TekusServiceManagement\\src\\Presentation\\Tekus.API\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\Tekus.API\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\TekusServiceManagement\\src\\Presentation\\Tekus.API\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "src\\Presentation\\Tekus.API\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:56:51.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\TekusServiceManagement\\src\\Presentation\\Tekus.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\Tekus.API\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\TekusServiceManagement\\src\\Presentation\\Tekus.API\\Program.cs",
+              "RelativeToolTip": "src\\Presentation\\Tekus.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:55:40.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
