@@ -2,11 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\backend",
-    "\\frontend",
     "\\frontend\\src",
+    "\\frontend\\src\\api",
     "\\frontend\\src\\components",
-    "\\frontend\\src\\components\\providers"
+    "\\frontend\\src\\components\\providers",
+    "\\frontend\\src\\hooks"
   ],
-  "SelectedNode": "\\frontend\\tsconfig.json",
+  "SelectedNode": "\\backend\\src",
   "PreviewInSolutionExplorer": false
 }
