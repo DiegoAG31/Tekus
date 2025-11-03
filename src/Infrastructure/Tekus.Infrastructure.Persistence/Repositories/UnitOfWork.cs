@@ -1,6 +1,4 @@
-﻿using Fluent.Infrastructure.FluentModel;
-using Tekus.Core.Domain.Repositories;
-using Tekus.Infrastructure.Persistence.Data;
+﻿using Tekus.Core.Domain.Repositories;
 
 namespace Tekus.Infrastructure.Persistence.Repositories;
 
